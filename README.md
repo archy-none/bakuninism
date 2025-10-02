@@ -9,4 +9,4 @@
 
 ## 目次
 - [[1]](./statism-and-anarchy.md) __国家主義とアナーキー__
-- [[1]](./man-society-and-freedom.md) __人間、社会、そして自由__
+- [[2]](./man-society-and-freedom.md) __人間、社会、そして自由__
