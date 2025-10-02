@@ -8,5 +8,5 @@
 また、語尾は*である*調に統一した。
 
 ## 目次
-- [[1]](./statism-and-anarchy.md) __国家主義とアナーキー__
-- [[2]](./man-society-and-freedom.md) __人間、社会、そして自由__
+- [[1]](./statism-and-anarchy.md) _国家主義とアナーキー_
+- [[2]](./man-society-and-freedom.md) _人間、社会、そして自由_
