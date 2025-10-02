@@ -1,4 +1,4 @@
-# [日本語版]バクーニン・アーカイブ
+# 【日本語版】バクーニン・アーカイブ
 
 日本語版のアーカイブが存在しなかったので、以下の出典の英文から訳した。
 - [Mikhail Bakunin Reference Archive](https://www.marxists.org/reference/archive/bakunin/)
