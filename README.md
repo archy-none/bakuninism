@@ -10,3 +10,4 @@
 ## 目次
 - [[1]](./statism-and-anarchy.md) _国家主義とアナーキー_
 - [[2]](./man-society-and-freedom.md) _人間、社会、そして自由_
+- [[3]](./appeal-to-the-slavs.md) _スラヴ人への訴え_
