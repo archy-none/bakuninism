@@ -12,4 +12,4 @@
 - [[2]](./man-society-and-freedom.md) _人間、社会、そして自由_
 - [[3]](./appeal-to-the-slavs.md) _スラヴ人への訴え_
 
-**訳者：秋井乃音斗**
+**訳者：秋井行人**
